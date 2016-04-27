@@ -24,3 +24,22 @@ main()
     #print (myList)
     #entry = input("if you would like to quit please type Q?")
 #main()
+
+
+#def main():
+
+ #   validinput=False
+  #  while(validinput==False):
+   #     try:
+    #        a = float(input("enter a number from 1 to 10?"))
+     #       b = float(input("enter another number from 1 to 10?"))
+      #      c = float(input("enter even another number from 1 to 10?"))
+       #     x = float(input("enter even another number from 1 to 10?"))
+        #    validinput = True
+       # except:
+        #   print("invalid input")
+
+   # print("congratulations", a * x ** 2 + b * x + c)
+
+
+#main()
